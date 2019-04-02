@@ -1,0 +1,10 @@
+# Mother Cluster: 
+# Cluster size: 2319
+# Cluster nr: 1545
+# At Cut: 1.0842021724855e-19
+# Number of Children (surviving cluster size threshold): 1
+# Number of Clusters in misc. cluster: 0
+Children clusters: 
+cluster_sizes cluster_numbers
+2319 1545
+filtered clusters: 

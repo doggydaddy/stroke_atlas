@@ -1,0 +1,86 @@
+# Mother Cluster: 
+# Cluster size: 17529
+# Cluster nr: 6
+# At Cut: 0.001245453
+# Number of Children (surviving cluster size threshold): 23
+# Number of Clusters in misc. cluster: 52
+# ...totalling in 2.9 % of mothers size
+Children clusters: 
+cluster_sizes cluster_numbers
+4829 61
+2766 84
+1803 73
+1722 110
+1411 106
+1194 108
+1157 91
+307 60
+209 80
+161 94
+128 79
+88 111
+86 67
+82 92
+70 81
+68 119
+57 83
+51 72
+50 87
+47 90
+42 88
+40 109
+37 69
+filtered clusters: 
+cluster_sizes cluster_numbers
+32 105
+30 113
+26 70
+24 75
+22 98
+21 76
+21 74
+20 117
+19 126
+19 107
+17 82
+16 89
+14 103
+13 112
+12 102
+11 97
+10 101
+10 62
+9 96
+9 71
+7 123
+7 120
+7 99
+7 78
+6 115
+6 85
+6 64
+6 63
+5 134
+5 129
+5 127
+5 124
+5 118
+5 116
+5 100
+5 95
+5 65
+4 132
+4 128
+4 121
+4 86
+4 77
+4 68
+4 66
+3 131
+3 130
+3 125
+3 122
+3 114
+3 93
+2 133
+2 104
